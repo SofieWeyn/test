@@ -4,3 +4,4 @@ this project is a test for the data management workshop
 Email: sofie.weyn@unibe.ch
 # funding
 This is funded by.... 
+# License
